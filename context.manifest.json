@@ -1,0 +1,13 @@
+{
+  "description": "Crystal systems reference library \u2014 all 7 crystal systems, lattice geometry, optical properties, and visual traits for generative art",
+  "files": [
+    "README.md",
+    "CRYSTAL_SYSTEMS.md",
+    "core/crystal_systems/01_cubic.md",
+    "core/crystal_systems/02_hexagonal.md",
+    "core/crystal_systems/03_tetragonal.md",
+    "core/crystal_systems/04_trigonal.md",
+    "core/crystal_systems/master_index.md",
+    "core/crystals_database.json"
+  ]
+}
